@@ -1,0 +1,1 @@
+/*! @adobe/storefront-product-listing-page@v2.0.0 */
